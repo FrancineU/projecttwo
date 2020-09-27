@@ -1,5 +1,5 @@
 # Project Two
-# Akhan NAme
+# Akhan Name
 # Project description
 This web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 # Author Information 
@@ -10,4 +10,10 @@ Chrome
 VSCode
 
 Terminal
+# Technologies Used
+HTMl
+
+Css
+
+Javascript
 
